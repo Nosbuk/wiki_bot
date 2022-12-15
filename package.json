@@ -11,6 +11,7 @@
   "author": "JM",
   "license": "MIT",
   "dependencies": {
+    "babel-node": "^0.0.1-security",
     "body-parser": "^1.20.1",
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
